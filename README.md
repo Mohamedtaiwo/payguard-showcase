@@ -33,6 +33,20 @@ d'audit et de source de données pour un modèle de détection.
 - **Maîtrise des coûts** : coût **mesuré** (facturation réelle) d'une session de démonstration complète = **~0,12 €** ; stratégie d'environnement éphémère (créer → prouver → détruire).
 - **Livrables** : dossier technique, procédures d'exploitation et plan de maintien en conditions opérationnelles (MCO), analyse de risques (EBIOS RM).
 
+## Aperçu
+
+**De la vulnérabilité au correctif documenté** — la chaîne d'audit et de détection, bloc par bloc :
+
+![Chaîne audit → détection](chaine-audit-detection.png)
+
+**Détection d'anomalies — POC Isolation Forest** (F1 = 0,97, rappel 100 %) :
+
+![Matrice de confusion Isolation Forest](poc-ia-matrice-confusion.png)
+
+**Coût réel mesuré** (~0,12 € pour une session complète) — le réseau, premier poste de dépense, était absent de l'estimation initiale :
+
+![Répartition des coûts mesurés](couts-repartition.png)
+
 ## Compétences mises en œuvre
 
 Infrastructure as Code · durcissement Linux (CIS) · conteneurisation · CI/CD · supervision & alerting ·
