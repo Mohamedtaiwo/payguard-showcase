@@ -54,4 +54,4 @@ et les résultats. Démonstration disponible sur demande en entretien.
 
 ## Contact
 
-**Mohamed Fouad TAÏWO** — [linkedin.com/in/mohamed-fouad-taïwo](https://www.linkedin.com/in/mohamed-fouad-taïwo)
+**Mohamed Fouad TAÏWO** 
