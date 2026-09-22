@@ -1,4 +1,4 @@
-# PayGuard — plateforme cloud sécurisée (vitrine)
+# PayGuard-plateforme cloud sécurisée (vitrine)
 
 > Projet **R&D interne** réalisé chez **Kedama Consulting** (juin – août 2026).
 > Le code source reste **privé** ; ce dépôt présente l'architecture, la démarche et les résultats.
